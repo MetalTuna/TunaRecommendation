@@ -1,0 +1,10 @@
+F:\GitHub\TunaRecommendation\TunaRecommendation\bin\x64\Debug\TunaRecommendation.exe.config
+F:\GitHub\TunaRecommendation\TunaRecommendation\bin\x64\Debug\TunaRecommendation.exe
+F:\GitHub\TunaRecommendation\TunaRecommendation\bin\x64\Debug\TunaRecommendation.pdb
+F:\GitHub\TunaRecommendation\TunaRecommendation\bin\x64\Debug\Newtonsoft.Json.dll
+F:\GitHub\TunaRecommendation\TunaRecommendation\bin\x64\Debug\Newtonsoft.Json.xml
+F:\GitHub\TunaRecommendation\TunaRecommendation\obj\x64\Debug\TunaRecommendation.csprojAssemblyReference.cache
+F:\GitHub\TunaRecommendation\TunaRecommendation\obj\x64\Debug\TunaRecommendation.csproj.CoreCompileInputs.cache
+F:\GitHub\TunaRecommendation\TunaRecommendation\obj\x64\Debug\TunaRecommendation.csproj.CopyComplete
+F:\GitHub\TunaRecommendation\TunaRecommendation\obj\x64\Debug\TunaRecommendation.exe
+F:\GitHub\TunaRecommendation\TunaRecommendation\obj\x64\Debug\TunaRecommendation.pdb

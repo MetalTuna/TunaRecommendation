@@ -5,10 +5,6 @@ VisualStudioVersion = 15.0.28307.1401
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TunaRecommendation", "TunaRecommendation\TunaRecommendation.csproj", "{A6D0FB56-93FC-4666-B3DF-3292103145C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPreprocessLibrary", "DataPreprocessLibrary\DataPreprocessLibrary.csproj", "{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModelLibrary", "DataModelLibrary\DataModelLibrary.csproj", "{0A0C1C48-C46C-464E-9128-44C6BDA98778}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecommendationLibrary", "RecommendationLibrary\RecommendationLibrary.csproj", "{88BA549A-9437-4D63-B6A2-4F14DEF0CF51}"
 EndProject
 Global
@@ -27,22 +23,6 @@ Global
 		{A6D0FB56-93FC-4666-B3DF-3292103145C7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A6D0FB56-93FC-4666-B3DF-3292103145C7}.Release|x64.ActiveCfg = Release|x64
 		{A6D0FB56-93FC-4666-B3DF-3292103145C7}.Release|x64.Build.0 = Release|x64
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Debug|x64.Build.0 = Debug|Any CPU
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Release|x64.ActiveCfg = Release|Any CPU
-		{EADCBECD-8436-49C4-8F2F-1CB53287BAD4}.Release|x64.Build.0 = Release|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Debug|x64.Build.0 = Debug|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Release|x64.ActiveCfg = Release|Any CPU
-		{0A0C1C48-C46C-464E-9128-44C6BDA98778}.Release|x64.Build.0 = Release|Any CPU
 		{88BA549A-9437-4D63-B6A2-4F14DEF0CF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{88BA549A-9437-4D63-B6A2-4F14DEF0CF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88BA549A-9437-4D63-B6A2-4F14DEF0CF51}.Debug|x64.ActiveCfg = Debug|Any CPU
